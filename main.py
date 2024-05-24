@@ -1,7 +1,7 @@
 import discord
 from discord.ext import commands
 import os, asyncio
-from keep_alive import keep_alive
+
 
 #import all of the cogs
 import youtubesearchpython , yt_dlp
