@@ -2,6 +2,7 @@ import discord
 from discord.ext import commands
 import os, asyncio
 
+logging.basicConfig(level=logging.INFO)
 
 #import all of the cogs
 import youtubesearchpython , yt_dlp
